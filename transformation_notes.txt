@@ -1,0 +1,6 @@
+• Imported HR Analytics dataset using Excel Power Query
+• Removed unnecessary columns
+• Handled missing values by removing critical nulls and replacing categorical nulls
+• Corrected data types for numeric and date columns
+• Created Age Group and Salary Band using conditional columns
+• Loaded transformed data and built analytical visuals
